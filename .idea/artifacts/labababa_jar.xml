@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="labababa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/labababa_jar</output-path>
+    <root id="archive" name="labababa.jar">
+      <element id="module-output" name="labababa" />
+    </root>
+  </artifact>
+</component>
